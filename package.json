@@ -1,0 +1,14 @@
+{
+  "name": "diar_bot",
+  "version": "1.0.0",
+  "description": "Amo Claudio Bisio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
